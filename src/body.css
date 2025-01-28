@@ -1,0 +1,7 @@
+.body {
+  margin-top: 16px;
+
+  & > button {
+    margin-bottom: 8px;
+  }
+}

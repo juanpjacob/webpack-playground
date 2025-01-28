@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 16px;
+  padding: 40px;
+}
+h1 {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: normal;
+  margin-bottom: 24px;
+}
+button {
+  all: unset;
+  cursor: pointer;
+  background-color: #ededed;
+  border-radius: 4px;
+  padding: 4px 16px;
+}
